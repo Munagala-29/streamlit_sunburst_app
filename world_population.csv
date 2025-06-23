@@ -1,0 +1,20 @@
+Continent,Country,State,City,Population
+Asia,India,Telangana,Hyderabad,10000000
+Asia,India,Karnataka,Bangalore,8000000
+Asia,India,Maharashtra,Mumbai,12500000
+Asia,China,Beijing,Beijing,20000000
+Asia,China,Guangdong,Guangzhou,15000000
+Asia,Japan,Kanto,Tokyo,14000000
+Europe,Germany,Bavaria,Munich,1500000
+Europe,Germany,Berlin,Berlin,3600000
+Europe,France,Ile-de-France,Paris,11000000
+Europe,UK,England,London,9000000
+North America,USA,California,Los Angeles,4000000
+North America,USA,New York,New York City,8500000
+North America,Canada,Ontario,Toronto,2900000
+South America,Brazil,Sao Paulo,Sao Paulo,12200000
+South America,Argentina,Buenos Aires,Buenos Aires,3100000
+Africa,Nigeria,Lagos,Lagos,21000000
+Africa,South Africa,Gauteng,Johannesburg,5700000
+Australia,Australia,New South Wales,Sydney,5300000
+Australia,Australia,Victoria,Melbourne,5100000
